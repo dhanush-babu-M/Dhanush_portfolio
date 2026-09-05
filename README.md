@@ -41,52 +41,51 @@ Welcome to my developer portfolio repository! This project hosts my responsive p
 
 ---
 
-## 🚀 Projects Showcase (Detailed Project-by-Project View)
+## 🚀 Projects Grid Overview (4 Lines • 8 Web & Software Projects)
 
-### 🏦 01. BankSphere Backend (Enterprise Banking REST API)
-
-| Property | Details |
-| :--- | :--- |
-| **Priority** | 🥇 **Priority #1 — Flagship Enterprise Backend** |
-| **Category** | Enterprise Backend & Financial Engineering |
-| **Tech Stack** | `Java 17` `Spring Boot 3.3.4` `Spring Security 6` `MySQL 8.0` `TiDB Cloud` `Flyway` `JJWT` `JUnit 5` |
-| **Architecture** | Clean Modular Monolith (`auth`, `account`, `transaction`, `loan`, `customer`, `card`) |
-| **Key Highlights** | • **Atomic Double-Entry Ledger:** Preserves accounting invariant with immutable debit/credit entries<br>• **Enterprise Security:** Stateless JWT with Refresh Token Rotation & SHA-256 hashed reset tokens<br>• **Flyway Migrations:** Version-controlled database schema migrations (`V1`, `V2`, `V3`) committed to Git<br>• **Loan Amortization:** Dynamic loan EMI calculations & programmatic PDF financial statements<br>• **100% Green Test Suite:** 46 verified automated unit, controller slice, and JPA tests |
-| **Links** | 🔗 [GitHub Repository](https://github.com/dhanush-babu-M/BankSphere_Backend) |
+| Line | Project A | Project B |
+| :---: | :--- | :--- |
+| **Line 1** | [ShopEase (Full Stack E-Commerce)](#-01-shopease-full-stack-e-commerce) | [BankSphere (Enterprise Banking Backend)](#-02-banksphere-backend-enterprise-banking-rest-api) |
+| **Line 2** | [Bark & Buy (Pet Store E-Commerce)](#-03-bark--buy-pet-store-e-commerce) | [Food Website (Restaurant Web App)](#-04-food-website-restaurant-web-app) |
+| **Line 3** | [Timeless Elite (Luxury Watch Showcase)](#-05-timeless-elite-luxury-watch-showcase) | [ChronoVault (Digital Time Capsule)](#-06-chronovault-digital-time-capsule) |
+| **Line 4** | [Hotel Reservation System](#-07-hotel-reservation-system) | [StudioHub (All Projects Directory)](#-08-studiohub-all-projects-directory) |
+| **Hardware / IoT** | [Vehicle Accident Detection System](#-09-vehicle-accident-detection--emergency-alert-system) | *Embedded Systems & IoT Safety Technology* |
 
 ---
 
-### 🛒 02. ShopEase (Full Stack E-Commerce Platform)
+## 📂 Detailed Project Breakdown
+
+### 🛒 01. ShopEase (Full Stack E-Commerce)
 
 | Property | Details |
 | :--- | :--- |
-| **Priority** | 🥈 **Priority #2 — Full Stack Web Application** |
-| **Category** | Full Stack E-Commerce |
+| **Grid Placement** | **Line 1 — Project 1** |
+| **Category** | Full Stack Web Application |
 | **Tech Stack** | `React.js` `Spring Boot` `Java` `MySQL` `Postman` `REST APIs` |
 | **Architecture** | Decoupled Client-Server Architecture (React Frontend + Spring Boot Backend) |
-| **Key Highlights** | • Complete e-commerce web platform featuring product catalog, search, and category filtering<br>• Robust Spring Boot REST backend with MySQL relational data persistence<br>• Dynamic shopping cart, client-side state management, and checkout workflow<br>• Comprehensive API testing and endpoint validation with Postman |
+| **Key Highlights** | • Full-stack shopping experience with product listings, dynamic category filtering, and search<br>• Spring Boot RESTful API endpoints connected to MySQL relational database for persistence<br>• Integrated shopping cart, client-side state handling, and seamless checkout flow<br>• Rigorously tested API endpoints and validation using Postman |
 | **Links** | 🌐 [Live Website](https://shopeazze.netlify.app) |
 
 ---
 
-### 🏨 03. Hotel Reservation System
+### 🏦 02. BankSphere Backend (Enterprise Banking REST API)
 
 | Property | Details |
 | :--- | :--- |
-| **Priority** | 🥉 **Priority #3 — Core Java Software** |
-| **Category** | Desktop Application & OOP Architecture |
-| **Tech Stack** | `Java` `Object-Oriented Programming (OOP)` `Data Structures` `GUI` |
-| **Architecture** | Layered OOP Architecture with Domain Models & Service Layers |
-| **Key Highlights** | • Room inventory tracking, booking reservations, and customer account lifecycle management<br>• Implements clean OOP design principles (Inheritance, Polymorphism, Encapsulation, Abstraction)<br>• Efficient data structures for room availability lookup, date verification, and bill calculation |
-| **Links** | 🔗 [GitHub Repository](https://github.com/dhanush-babu-M) |
+| **Grid Placement** | **Line 1 — Project 2** |
+| **Category** | Enterprise Backend & Financial Engineering |
+| **Tech Stack** | `Java 17` `Spring Boot 3.3.4` `Spring Security 6` `MySQL 8.0` `TiDB Cloud` `Flyway` `JJWT` `JUnit 5` |
+| **Architecture** | Clean Modular Monolith (`auth`, `account`, `transaction`, `loan`, `customer`, `card`) |
+| **Key Highlights** | • **Atomic Double-Entry Ledger:** Guarantees balance equation invariant with immutable debit/credit entries<br>• **Enterprise Security:** Stateless JWT with Refresh Token Rotation & SHA-256 hashed reset tokens<br>• **Flyway Migrations:** Version-controlled database schema migrations (`V1`, `V2`, `V3`) committed to Git<br>• **Loan Amortization:** Dynamic loan EMI calculations & programmatic PDF financial statements<br>• **100% Green Test Suite:** 46 verified automated unit, controller slice, and JPA tests |
+| **Links** | 🔗 [GitHub Repository](https://github.com/dhanush-babu-M/BankSphere_Backend) |
 
 ---
 
-### 🐶 04. Bark & Buy (Pet Store E-Commerce)
+### 🐶 03. Bark & Buy (Pet Store E-Commerce)
 
 | Property | Details |
 | :--- | :--- |
-| **Priority** | **Priority #4 — Frontend Shop** |
+| **Grid Placement** | **Line 2 — Project 3** |
 | **Category** | Responsive Frontend E-Commerce |
 | **Tech Stack** | `HTML5` `CSS3` `JavaScript (Vanilla ES6+)` |
 | **Architecture** | Single-Page E-Commerce UI with Client-Side DOM State |
@@ -95,24 +94,24 @@ Welcome to my developer portfolio repository! This project hosts my responsive p
 
 ---
 
-### ⏳ 05. ChronoVault (Digital Time Capsule)
+### 🍔 04. Food Website (Restaurant Web App)
 
 | Property | Details |
 | :--- | :--- |
-| **Priority** | **Priority #5 — Web Application** |
-| **Category** | Single-Page Application (SPA) & CRUD |
-| **Tech Stack** | `JavaScript (ES6+)` `HTML5` `CSS3` `Local Storage / CRUD` |
-| **Architecture** | Client-Side SPA with Persistent Storage Model |
-| **Key Highlights** | • Personal digital time capsule allowing users to compose, lock, and unlock future messages<br>• Complete CRUD functionality (Create, Read, Update, Delete) with persistent browser storage<br>• Futuristic visual design with countdown timers, secure locks, and status indicators |
-| **Links** | 🌐 [Live Website](https://dhanush-vault.netlify.app) |
+| **Grid Placement** | **Line 2 — Project 4** |
+| **Category** | Responsive Business Website |
+| **Tech Stack** | `HTML5` `CSS3` `Flexbox & CSS Grid` `Responsive Design` |
+| **Architecture** | Semantic Static Web Architecture |
+| **Key Highlights** | • Vibrant landing page designed for food enterprises, restaurants, and culinary businesses<br>• Engaging hero banner, interactive menu showcase, and customer review highlights<br>• Fast load times, lightweight code structure, and multi-device compatibility |
+| **Links** | 🌐 [Live Website](https://tastes-finds-u.netlify.app) |
 
 ---
 
-### ⌚ 06. Timeless Elite (Luxury Watch Showcase)
+### ⌚ 05. Timeless Elite (Luxury Watch Showcase)
 
 | Property | Details |
 | :--- | :--- |
-| **Priority** | **Priority #6 — Modern Frontend** |
+| **Grid Placement** | **Line 3 — Project 5** |
 | **Category** | Modern React UI/UX Showcase |
 | **Tech Stack** | `React.js` `Modern UI/UX` `Responsive CSS3` `Component Architecture` |
 | **Architecture** | Modular React Component Hierarchy |
@@ -121,16 +120,29 @@ Welcome to my developer portfolio repository! This project hosts my responsive p
 
 ---
 
-### 🍔 07. Taste Finds (Food & Restaurant Website)
+### ⏳ 06. ChronoVault (Digital Time Capsule)
 
 | Property | Details |
 | :--- | :--- |
-| **Priority** | **Priority #7 — Frontend Web Design** |
-| **Category** | Responsive Business Website |
-| **Tech Stack** | `HTML5` `CSS3` `Flexbox & CSS Grid` `Responsive Design` |
-| **Architecture** | Semantic Static Web Architecture |
-| **Key Highlights** | • Vibrant landing page designed for food enterprises, restaurants, and cloud kitchens<br>• Engaging hero banner, interactive menu cards, and customer review highlights<br>• Fast load times, lightweight code structure, and multi-device compatibility |
-| **Links** | 🌐 [Live Website](https://tastes-finds-u.netlify.app) |
+| **Grid Placement** | **Line 3 — Project 6** |
+| **Category** | Single-Page Application (SPA) & CRUD |
+| **Tech Stack** | `JavaScript (ES6+)` `HTML5` `CSS3` `Local Storage / CRUD` |
+| **Architecture** | Client-Side SPA with Persistent Storage Model |
+| **Key Highlights** | • Personal digital time capsule allowing users to compose, lock, and unlock future messages<br>• Complete CRUD functionality (Create, Read, Update, Delete) with persistent browser storage<br>• Futuristic visual design with countdown timers, secure locks, and status indicators |
+| **Links** | 🌐 [Live Website](https://dhanush-vault.netlify.app) |
+
+---
+
+### 🏨 07. Hotel Reservation System
+
+| Property | Details |
+| :--- | :--- |
+| **Grid Placement** | **Line 4 — Project 7** |
+| **Category** | Desktop Software & OOP Architecture |
+| **Tech Stack** | `Java` `Object-Oriented Programming (OOP)` `Data Structures` `GUI` |
+| **Architecture** | Layered OOP Architecture with Domain Models & Service Layers |
+| **Key Highlights** | • Room inventory tracking, booking reservations, and customer account lifecycle management<br>• Implements clean OOP design principles (Inheritance, Polymorphism, Encapsulation, Abstraction)<br>• Efficient data structures for room availability lookup, date verification, and bill calculation |
+| **Links** | 🔗 [GitHub Repository](https://github.com/dhanush-babu-M) |
 
 ---
 
@@ -138,7 +150,7 @@ Welcome to my developer portfolio repository! This project hosts my responsive p
 
 | Property | Details |
 | :--- | :--- |
-| **Priority** | **Priority #8 — Showcase Directory** |
+| **Grid Placement** | **Line 4 — Project 8** |
 | **Category** | Centralized Portfolio Directory Hub |
 | **Tech Stack** | `Portfolio Directory` `Responsive Web Design` `Web Hub` |
 | **Architecture** | Centralized Navigation Aggregator |
@@ -151,7 +163,7 @@ Welcome to my developer portfolio repository! This project hosts my responsive p
 
 | Property | Details |
 | :--- | :--- |
-| **Priority** | **Priority #9 — Embedded Systems & IoT** |
+| **Grid Placement** | **Hardware / IoT Section** |
 | **Category** | Hardware / Embedded Engineering & Safety Systems |
 | **Tech Stack** | `Embedded C` `Microcontroller Programming` `GPS Module` `GSM Module` |
 | **Architecture** | Sensor-to-Microcontroller Interrupt & Telemetry Pipeline |
