@@ -1,4 +1,4 @@
-﻿# 👨‍💻 Dhanush Babu Mamuduru — Developer Portfolio 🚀
+# 👨‍💻 Dhanush Babu Mamuduru — Developer Portfolio 🚀
 
 Welcome to my developer portfolio repository! This project hosts my responsive portfolio website, showcasing full-stack applications, enterprise backend systems, certifications, and technical accomplishments.
 
@@ -49,7 +49,7 @@ Welcome to my developer portfolio repository! This project hosts my responsive p
 | **Line 2** | [Bark & Buy (Pet Store E-Commerce)](#-03-bark--buy-pet-store-e-commerce) | [Food Website (Restaurant Web App)](#-04-food-website-restaurant-web-app) |
 | **Line 3** | [Timeless Elite (Luxury Watch Showcase)](#-05-timeless-elite-luxury-watch-showcase) | [ChronoVault (Digital Time Capsule)](#-06-chronovault-digital-time-capsule) |
 | **Line 4** | [Hotel Reservation System](#-07-hotel-reservation-system) | [StudioHub (All Projects Directory)](#-08-studiohub-all-projects-directory) |
-| **Hardware / IoT** | [Vehicle Accident Detection System](#-09-vehicle-accident-detection--emergency-alert-system) | *Embedded Systems & IoT Safety Technology* |
+| **Hardware / IoT** | [Vehicle Accident Detection System](#-09-vehicle-accident-detection--emergency-alert-system) | [Project Demo Video](https://drive.google.com/file/d/1hVGy-Kn9h8FK0hKqdFpwjx6CapqNzMiq/view?usp=sharing) • [GitHub](https://github.com/dhanush-babu-M) |
 
 ---
 
@@ -168,7 +168,7 @@ Welcome to my developer portfolio repository! This project hosts my responsive p
 | **Tech Stack** | `Embedded C` `Microcontroller Programming` `GPS Module` `GSM Module` |
 | **Architecture** | Sensor-to-Microcontroller Interrupt & Telemetry Pipeline |
 | **Key Highlights** | • Real-time vehicular impact detection designed to reduce emergency response times<br>• Automated acquisition of precise GPS coordinates upon collision trigger<br>• Automated SMS alert transmission with real-time location sent to emergency services and contacts<br>• Reliable firmware programmed in Embedded C with fault-tolerant microcontroller routines |
-| **Links** | 🔗 [GitHub Repository](https://github.com/dhanush-babu-M) |
+| **Links** | 🔗 [GitHub Repository](https://github.com/dhanush-babu-M) • 🎬 [Project Demo Video](https://drive.google.com/file/d/1hVGy-Kn9h8FK0hKqdFpwjx6CapqNzMiq/view?usp=sharing) |
 
 ---
 
